@@ -1,0 +1,3362 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Leven Theme 1.4.0\n"
+"POT-Creation-Date: 2020-04-14 10:45+0400\n"
+"PO-Revision-Date: 2017-06-16 19:51+0400\n"
+"Last-Translator: \n"
+"Language-Team: LMPixels linar@lmpixels.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext;_n;__ngettext_noop;_n_noop;_x;_nx;"
+"_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x;_c;_nc\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:386
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:827
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2533
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:387
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:388
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:934
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1121
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: "
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: TGM-Plugin-Activation/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:27
+msgid "F Y"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:30
+msgid "Y"
+msgstr ""
+
+#: archive.php:33 sidebar.php:23 taxonomy-post_format.php:46
+msgid "Archives"
+msgstr ""
+
+#: author.php:29
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgid "1 Comment %2$s"
+msgstr ""
+
+#: comments.php:32 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:66
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:77
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:84
+msgid "Your Comment"
+msgstr ""
+
+#: content-none.php:7
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:12 content.php:57
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:18 content.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/cell-worksheet-template.php:37
+msgid "Edit"
+msgstr ""
+
+#: content.php:55
+msgid "Continue reading..."
+msgstr ""
+
+#: framework-customizations/demo-content/leven_demo_content/manifest.php:7
+msgid "Leven Theme Demo"
+msgstr ""
+
+#: framework-customizations/demo-content/leven_demo_content_dark/manifest.php:7
+msgid "Leven Theme Demo Dark"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/config.php:8
+msgid "Accordion"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/config.php:9
+msgid "Add an Accordion"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/button/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/map/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/table/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/config.php:9
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/config.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/config.php:7
+msgid "Leven Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:8
+msgid "Tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:9
+msgid "Add/Edit Tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:10
+msgid "Create your tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:15
+#: framework-customizations/theme/options/footer.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/options.php:10
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:20
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:34
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:35
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:35
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:72
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/options.php:22
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:12
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:24
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:19
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:22
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:23
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:24
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/options.php:5
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/accordion/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/options.php:16
+msgid "Content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:313
+msgid "Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/config.php:9
+msgid "Add a Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:8
+msgid "Button Label"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:9
+msgid "This is the text that appears on your button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:14
+msgid "Button Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:15
+msgid "Where should your button link to"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:38
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:35
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:34
+msgid "Open Link in New Window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:22
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:39
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:36
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:35
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:25
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:66
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:83
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:328
+#: framework-customizations/theme/options/footer.php:47
+#: framework-customizations/theme/options/posts/fw-portfolio.php:124
+#: framework-customizations/theme/options/posts/page.php:29
+#: framework-customizations/theme/options/theme-styling.php:59
+#: framework-customizations/theme/options/theme-styling.php:74
+#: framework-customizations/theme/options/theme-styling.php:104
+#: framework-customizations/theme/options/theme-styling.php:156
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:42
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:58
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:50
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:51
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:100
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:51
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:88
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:104
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:39
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:47
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:38
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:50
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:70
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:79
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:332
+#: framework-customizations/theme/options/footer.php:51
+#: framework-customizations/theme/options/posts/fw-portfolio.php:128
+#: framework-customizations/theme/options/posts/page.php:25
+#: framework-customizations/theme/options/theme-styling.php:63
+#: framework-customizations/theme/options/theme-styling.php:78
+#: framework-customizations/theme/options/theme-styling.php:108
+#: framework-customizations/theme/options/theme-styling.php:160
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:46
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:54
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:46
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:55
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:104
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:55
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:92
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:108
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:43
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:51
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:42
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:54
+msgid "No"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:33
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:60
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:60
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:56
+msgid "Button Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:34
+msgid "Select the button type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:38
+msgid "Primary Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:39
+msgid "Secondary Button"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:43
+msgid "Margin Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:44
+msgid "Margin top in pixels. Example: 10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:49
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/button/options.php:50
+msgid "Margin bottom in pixels. Example: 10"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:71
+msgid "Event"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:72
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:98
+msgid "Events"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:73
+msgid "Today"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:82
+#, php-format
+msgid "Calendar: View %s not found"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:83
+#, php-format
+msgid ""
+"Calendar: Wrong date format %s. Should be either \"now\" or \"yyyy-mm-dd\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:85
+msgid "Calendar: Event URL is not set"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:86
+#, php-format
+msgid ""
+"Calendar: Wrong navigation direction %s. Can be only \"next\" or \"prev\" or "
+"\"today\""
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:88
+msgid ""
+"Calendar: Time split parameter should divide 60 without decimals. Something "
+"like 10, 15, 30"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:90
+msgid "No events in this day."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:93
+#, php-format
+msgid "week %s of %s"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:95
+msgid "Week "
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:96
+msgid "All day"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:97
+msgid "Time"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:99
+msgid "Ends before timeline"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:100
+msgid "Starts after timeline"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:101
+msgid "January"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:102
+msgid "February"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:103
+msgid "March"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:104
+msgid "April"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:105
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:117
+msgid "May"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:106
+msgid "June"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:107
+msgid "July"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:108
+msgid "August"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:109
+msgid "September"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:110
+msgid "October"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:111
+msgid "November"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:112
+msgid "December"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:113
+msgid "Jan"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:114
+msgid "Feb"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:115
+msgid "Mar"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:116
+msgid "Apr"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:118
+msgid "Jun"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:119
+msgid "Jul"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:120
+msgid "Aug"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:121
+msgid "Sep"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:122
+msgid "Oct"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:123
+msgid "Nov"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:124
+msgid "Dec"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:125
+msgid "Sunday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:126
+msgid "Monday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:127
+msgid "Tuesday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:128
+msgid "Wednesday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:129
+msgid "Thursday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:130
+msgid "Friday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/calendar/static.php:131
+msgid "Saturday"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/config.php:5
+msgid "Layout Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/config.php:6
+msgid "Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:13
+msgid "Additional Spacing"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:18
+msgid "padding top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:24
+msgid "padding right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:30
+msgid "padding bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:36
+msgid "padding left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:43
+msgid "Responsive Layout for Tablet"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:44
+msgid "Choose the responsive tablet display for this column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:45
+msgid ""
+"Use this option in order to control how this column behaves on tablets (and "
+"devices with the resoution between 768px - 990px). Note that on phones all "
+"the columns are 1/1 by default."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:49
+msgid "Automatically inherit default layout"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:50
+msgid "Make it a 1/6 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:51
+msgid "Make it a 1/4 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:52
+msgid "Make it a 1/3 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:53
+msgid "Make it a 1/2 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:54
+msgid "Make it a 2/3 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:55
+msgid "Make it a 3/4 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:56
+msgid "Make it a 1/1 column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:92
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:40
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:72
+msgid "Custom Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:93
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:41
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:73
+msgid "Enter custom CSS class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:95
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:43
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:76
+msgid ""
+"You can use this class to further style this shortcode by adding your custom "
+"CSS."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:15
+msgid "Custom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:18
+msgid "Locations"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:19
+msgid "Add/Edit Location"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:22
+msgid "Note: Please set location"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:26
+msgid "Location"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:30
+msgid "Location Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:31
+msgid "Set location title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:35
+msgid "Location Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:36
+msgid "Set location description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:40
+msgid "Location Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:41
+msgid "Set page url (Ex: http://example.com)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:44
+msgid "Location Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:45
+msgid "Add location image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:104
+msgid "No location provider specified for map shortcode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:106
+msgid "Map Placeholder"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php:113
+#, php-format
+msgid "Unknown location provider \"%s\" specified for map shortcode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/config.php:8
+msgid "Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/config.php:9
+msgid "Add a Map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:13
+msgid "Population Method"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:14
+msgid "Select map population method (Ex: events, custom)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:24
+msgid "Google Maps API Key"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:26
+#, php-format
+msgid "Create an application in %sGoogle Console%s and add the Key here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:45
+msgid "Map Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:46
+msgid "Select map type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:48
+msgid "Roadmap"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:49
+msgid "Terrain"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:50
+msgid "Satellite"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:51
+msgid "Hybrid"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:55
+msgid "Map Height"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:56
+msgid "Set map height (Ex: 300)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:62
+msgid "Disable zoom on scroll"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:63
+msgid "Prevent the map from zooming when scrolling until clicking on the map"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:74
+msgid "Map Zoom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/map/options.php:75
+msgid "Set map zoom level"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:12
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:26
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:75
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:71
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:36
+msgid "Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:6
+msgid "Add an Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/config.php:7
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/config.php:10
+msgid "Leven Media Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:13
+msgid "Upload image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:24
+msgid "On Click"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:25
+msgid "What happens when you click the image?"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:30
+msgid "Nothing happens"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:31
+msgid "Open in pop-up"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:32
+msgid "Open custom Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:50
+msgid "Original image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/config.php:5
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:7
+msgid "Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:59
+msgid "Enter Youtube or Vimeo video URL"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:69
+msgid "Enter your custom URL link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/options.php:76
+msgid "Open link in new window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-image/views/view.php:6
+#: header.php:67
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/views/view.php:120
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/views/view.php:30
+msgid "image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/config.php:6
+msgid "Add a Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:8
+msgid "Enter Youtube or Vimeo video URL."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:10
+msgid ""
+"Link formats:\n"
+"                               YouTube: https://www.youtube.com/embed/id. "
+"Example: https://www.youtube.com/embed/w5tWYmIOWGk\n"
+"                               Vimeo: https://player.vimeo.com/video/id. "
+"Example: https://player.vimeo.com/video/97102654."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:16
+msgid "Aspect Ratio"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:18
+msgid "16:9"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:19
+msgid "4:3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:24
+msgid "YouTube and Vimeo video lazy loading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:28
+#: framework-customizations/theme/options/posts/fw-portfolio.php:93
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:118
+msgid "On"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/media-video/options.php:32
+#: framework-customizations/theme/options/contact-form.php:66
+#: framework-customizations/theme/options/portfolio.php:28
+#: framework-customizations/theme/options/portfolio.php:71
+#: framework-customizations/theme/options/portfolio.php:130
+#: framework-customizations/theme/options/posts/fw-portfolio.php:97
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:27
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:122
+msgid "Off"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:6
+msgid "Special Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:7
+msgid "Add a Special Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:10
+msgid "Content Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:8
+msgid "Heading Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:9
+msgid "Write the heading title content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:13
+msgid "Heading Subtitle"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:14
+msgid "Write the heading subtitle content"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:18
+msgid "Heading Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:30
+msgid "Centered"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:12
+#: framework-customizations/theme/options/posts/fw-portfolio.php:67
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:15
+msgid "Short Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:13
+msgid "Optional field. Add a brief description of the block."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/config.php:8
+msgid "Table"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/config.php:9
+msgid "Add a Table"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:65
+msgid "table-builder option type must be inside the table shortcode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:222
+msgid "Table Styling"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:223
+msgid "Choose the table styling options"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:225
+msgid "Use the table as a pricing table"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:226
+msgid "Use the table to display tabular data"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:248
+msgid "Default row"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:249
+msgid "Heading row"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:250
+msgid "Pricing row"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:251
+msgid "Button row"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:252
+msgid "Row switch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:262
+msgid "Default column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:263
+msgid "Description column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:264
+msgid "Highlight column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:265
+msgid "Center text column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:302
+msgid "per month"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php:314
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/cell-worksheet-template.php:39
+#: framework-customizations/theme/options/footer.php:27
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:68
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:27
+msgid "Add"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/cell-head-template.php:27
+msgid "Add Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/view.php:161
+msgid "Add Row"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/config.php:9
+msgid "Add some Tabs"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/tabs/options.php:9
+msgid "Add/Edit Tab"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:8
+msgid "Text Block"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:9
+msgid "Add a Text Block"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:9
+msgid "Enter some content for this texblock"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/config.php:6
+msgid "Contact Form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:12
+msgid "Contact Form Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:16
+msgid "Your Email Address"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:17
+msgid "Messages from the contact form will be sent to this email address."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:22
+msgid "Hosting Admin Email Address"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:23
+msgid ""
+"This email address will be listed in the From field of the message body. "
+"Example: info@yourdomain.com"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:24
+msgid ""
+"Some hosting providers forbid the sending of messages from their server "
+"without specifying the real address of the hosting administrator. Examples "
+"of such addresses are: info@yourdomain.com, admin@yourdomain.com."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:29
+msgid "Message Subject"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:30
+msgid "The title of the message."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:32
+msgid "New message from contact form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:35
+msgid "Start of Message that will be Sent"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:36
+msgid "Start of message that will be sent to your email."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:38
+msgid "You have new message from Contact Form"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:41
+msgid "Successful Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:42
+msgid "This message will be displayed when the message is successfully sent."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:44
+msgid ""
+"Contact form successfully submitted. Thank you, I will get back to you soon!"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:47
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:43
+msgid "Error Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:48
+msgid ""
+"This message will be displayed if an error occurred while sending the "
+"message."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:50
+msgid "There was an error while submitting the form. Please try again later"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:58
+msgid "Google reCaptcha v2"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:62
+#: framework-customizations/theme/options/portfolio.php:24
+#: framework-customizations/theme/options/portfolio.php:67
+#: framework-customizations/theme/options/portfolio.php:126 inc/helpers.php:17
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:16
+msgid "on"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:69
+msgid "Will help protect you from spam."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:76
+msgid "Google reCaptcha v2 Site Key"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:81
+msgid ""
+"By default, the theme uses the global site key. You can replace it with your "
+"own."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:85
+msgid "Google reCaptcha v2 Secret Site Key"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:90
+msgid ""
+"By default, the theme uses the global secret site key. You can replace it "
+"with your own."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:94
+msgid "Please click on the reCAPTCHA box Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:95
+msgid ""
+"This message will be displayed if the user forgot to click on the reCAPTCHA "
+"checkbox."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:97
+msgid "Please click on the reCAPTCHA box."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:100
+msgid "Robot Verification Failed Message"
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:101
+msgid ""
+"This message will be displayed if the user has incorrectly passed the "
+"verification."
+msgstr ""
+
+#: framework-customizations/theme/options/contact-form.php:103
+msgid "Robot verification failed, please try again."
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:8
+#: framework-customizations/theme/options/custom-css.php:12
+msgid "Custom CSS and JS"
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:16
+msgid "Custom CSS"
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:17
+msgid "Add your custom CSS styles."
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:22
+msgid "External CSS"
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:23
+msgid ""
+"Add your custom external (.css) file. Example: &lt;link rel=\"stylesheet\" "
+"type=\"text/css\" href=\"yourstyle.css\"&gt;"
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:28
+msgid "External JS"
+msgstr ""
+
+#: framework-customizations/theme/options/custom-css.php:29
+msgid ""
+"Add your custom external (.js) file. Example: &lt;script src=\"yourscript.js"
+"\"&gt;&lt;/script&gt;"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:11
+msgid "Footer Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:15
+msgid "Copyrights"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:16
+msgid "Copyrights text."
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:22
+msgid "Footer Links"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:36
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:40
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:40
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:77
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:36
+msgid "URL"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:42
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:46
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:46
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:83
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:42
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: framework-customizations/theme/options/footer.php:43
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:47
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:47
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:84
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:43
+msgid "Select here if you want to open the linked page in a new tab"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:7
+msgid "General"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:11
+msgid "General Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:16
+msgid "Logo Letter"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:17
+msgid "This letter will appear in front of the text logo."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:20
+#: framework-customizations/theme/options/general-settings.php:27
+msgid ""
+"If you want to use the logo as an image, you can upload it below, in which "
+"case this field can be left blank."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:23
+msgid "Text Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:24
+msgid "Write your website title"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:30
+msgid "Image Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:31
+msgid "Upload the logo."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:35
+msgid "Logo Image Height"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:36
+msgid "Set logo image height in the pixels. Example: 50."
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:41
+msgid "Logo Image Width"
+msgstr ""
+
+#: framework-customizations/theme/options/general-settings.php:42
+msgid "Set logo image width in the pixels. Example 50."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/config.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:11
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:20
+msgid "Custom Portfolio Titles"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:36
+msgid "Description Title"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:37
+msgid "Description title."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:39
+msgid "Description"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:42
+msgid "Technology Title"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:43
+msgid "Technology title."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:45
+msgid "Technology"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:48
+msgid "Share Title"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:49
+msgid "Share title."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:51
+msgid "Share"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:63
+msgid "Display a Sidebar with a Description, Tags and Share Links."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:88
+msgid "Display Fields and Blocks in the Description Block"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:89
+msgid "These settings apply only to the standard project type."
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:91
+#: framework-customizations/theme/options/posts/fw-portfolio.php:36
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/config.php:6
+msgid "Client"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:92
+msgid "Site"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:93
+#: framework-customizations/theme/options/posts/fw-portfolio.php:64
+msgid "Date"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:94
+msgid "Tags"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:95
+msgid "Share Buttons"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:100
+msgid "Display Sidebar on the Left or Right Side"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:104
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:90
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:102
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:86
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:31
+msgid "Right"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:108
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:86
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:98
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:82
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:17
+msgid "Left"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:122
+msgid "Load More Feature"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:138
+msgid "Number of Projects Displayed by Default"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:143
+msgid "Load More Button Text"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:145
+msgid "Load More"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:148
+msgid "Load More Button Text on Loading"
+msgstr ""
+
+#: framework-customizations/theme/options/portfolio.php:150
+msgid "Loading..."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:9
+msgid "Project Options"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:21
+msgid "Portfolio Type"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:24
+msgid "Standard"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:25
+msgid "Lightbox Featured Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:26
+msgid "Lightbox Video"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:27
+msgid "Lightbox Audio"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:28
+#: framework-customizations/theme/options/posts/fw-portfolio.php:150
+msgid "Direct URL"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:40
+msgid "Site URL Text"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:44
+msgid "Site URL"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:48
+msgid "Site URL Text 2"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:52
+msgid "Site URL 2"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:56
+msgid "Site URL Text 3"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:60
+msgid "Site URL 3"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:75
+msgid "Project Tags"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:89
+msgid "Show Gallery as Grid"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:105
+msgid "Gallery Grid"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:110
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:11
+msgid "1 Column"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:111
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:12
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:21
+msgid "2 Columns"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:112
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:13
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:22
+msgid "3 Columns"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:120
+msgid "Use Ajax to load the project"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:131
+msgid ""
+"If you disable this option, the project will open as a separate page. If "
+"this option is enabled, the project will be loaded in the form of an "
+"animated window, above the main content."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:138
+msgid "Video URL"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:144
+msgid "Audio URL"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:20
+msgid "Hide Page Title"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:33
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:34
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/options.php:11
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:12
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:17
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:12
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/options.php:11
+msgid "Write some text"
+msgstr ""
+
+#: framework-customizations/theme/options/seo.php:8
+#: framework-customizations/theme/options/seo.php:12
+msgid "SEO"
+msgstr ""
+
+#: framework-customizations/theme/options/seo.php:16
+msgid "Tracking Code (head)"
+msgstr ""
+
+#: framework-customizations/theme/options/seo.php:17
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. It will be "
+"inserted before the closing head tag."
+msgstr ""
+
+#: framework-customizations/theme/options/seo.php:22
+msgid "Tracking Code (body)"
+msgstr ""
+
+#: framework-customizations/theme/options/seo.php:23
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. It will be "
+"inserted before the closing body tag."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:7
+#: framework-customizations/theme/options/theme-styling.php:11
+msgid "Theme Design"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:15
+msgid "Content Area Max Width"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:18
+msgid "Maximum width of the area with content. In pixels."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:21
+msgid "Main Theme Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:25
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:36
+msgid "Select main color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:28
+msgid "Body Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:32
+msgid "Select body background color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:35
+msgid "Blog Sidebar Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:39
+msgid "Select blog pages sidebar background color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:42
+msgid "Links Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:46
+msgid "Select links color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:49
+msgid "Links Hover Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:52
+msgid "Select links hover color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:55
+msgid "Show Blog Sidebar"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:70
+msgid "Use Full Width Mode"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:85
+msgid "Theme Style"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:89
+msgid "Light"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:93
+msgid "Dark"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:96
+msgid ""
+"This option changes the basic styles. The styles that can be changed on that "
+"page should be changed at your discretion."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:100
+msgid "BG Move Effect"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:111
+msgid ""
+"Apply the effect of moving behind the mouse pointer to the main background"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:115
+msgid "Scroll to Top Button"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:119
+msgid "Show"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:123
+msgid "Hide"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:126
+msgid "Show scroll to top button"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:133
+msgid "Page Transition Effect"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:135
+msgid "1. Flip in right"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:136
+msgid "2. Swap"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:137
+msgid "3. Vanish"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:138
+msgid "4. Transition Puff in"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:139
+msgid "5. Space in"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:140
+msgid "6. Fade in left"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:141
+msgid "7. Twister in up"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:146
+msgid "Content Area Border Radius"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:149
+msgid ""
+"Content Area Border Radius. In pixels. The setting is not relevant for full "
+"width mode."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:152
+msgid "Disable Content Area Box Shadow"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:164
+msgid ""
+"Disable Content Area Box Shadow. The setting is not relevant for full width "
+"mode."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:169
+msgid "Design of the Main Menu"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:193
+msgid "Main Menu Font"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:201
+msgid "Page Titles"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:206
+#: framework-customizations/theme/options/theme-styling.php:275
+msgid "Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:210
+#: framework-customizations/theme/options/theme-styling.php:217
+msgid "Select the background color of the title."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:213
+msgid "Color of Top and Bottom Border"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:239
+msgid "Title Font"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:263
+msgid "Subtitle Font"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:270
+msgid "Page Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:279
+#: framework-customizations/theme/options/theme-styling.php:293
+#: framework-customizations/theme/options/theme-styling.php:300
+#: framework-customizations/theme/options/theme-styling.php:307
+#: framework-customizations/theme/options/theme-styling.php:314
+msgid "Select the background color."
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:284
+msgid "Footer Design"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:289
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:296
+msgid "Footer Top Border Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:303
+msgid "Footer Text Color"
+msgstr ""
+
+#: framework-customizations/theme/options/theme-styling.php:310
+msgid "Footer Links Color"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:7
+#: framework-customizations/theme/options/typography.php:11
+msgid "Typography"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:34
+msgid "Body Text"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:58
+msgid "Headings Font"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:63
+msgid "H1 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:75
+#: framework-customizations/theme/options/typography.php:107
+msgid "H1 heading size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:79
+msgid "H2 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:91
+msgid "H2 heading size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:95
+msgid "H3 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:111
+msgid "H4 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:123
+msgid "H4 heading size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:127
+msgid "H5 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:139
+msgid "H5 heading size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:143
+msgid "H6 Size"
+msgstr ""
+
+#: framework-customizations/theme/options/typography.php:155
+msgid "H6 heading size"
+msgstr ""
+
+#: functions.php:123
+msgid "Cornflower Blue"
+msgstr ""
+
+#: functions.php:128
+msgid "Emerald"
+msgstr ""
+
+#: functions.php:133
+msgid "Shakespeare"
+msgstr ""
+
+#: functions.php:138
+msgid "Persimmon"
+msgstr ""
+
+#: functions.php:143
+msgid "Azure Radiance"
+msgstr ""
+
+#: functions.php:148
+msgid "Neon Carrot"
+msgstr ""
+
+#: functions.php:153
+msgid "Burnt Sienna"
+msgstr ""
+
+#: functions.php:158
+msgid "Blue Bayoux"
+msgstr ""
+
+#: functions.php:163
+msgid "Cerulean"
+msgstr ""
+
+#: functions.php:168
+msgid "Saffron"
+msgstr ""
+
+#: functions.php:173
+msgid "Java"
+msgstr ""
+
+#: functions.php:178
+msgid "Carnation"
+msgstr ""
+
+#: functions.php:183
+msgid "very light gray"
+msgstr ""
+
+#: functions.php:188
+msgid "light gray"
+msgstr ""
+
+#: functions.php:193
+msgid "dark gray"
+msgstr ""
+
+#: functions.php:198
+msgid "very dark gray"
+msgstr ""
+
+#: inc/helpers.php:127
+#, php-format
+msgid "%d Article"
+msgstr ""
+
+#: inc/helpers.php:185
+msgid "Previous"
+msgstr ""
+
+#: inc/helpers.php:186
+msgid "Next"
+msgstr ""
+
+#: inc/helpers.php:222
+msgid "Published In"
+msgstr ""
+
+#: inc/helpers.php:319
+msgid "Featured"
+msgstr ""
+
+#: inc/hooks.php:190
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/hooks.php:230
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/hooks.php:233
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: inc/hooks.php:262
+msgid "Blog Page Sidebar"
+msgstr ""
+
+#: inc/hooks.php:264
+msgid "Leven Theme Blog Page Sidebar"
+msgstr ""
+
+#: inc/hooks.php:328
+msgid "Pe icon 7 stroke"
+msgstr ""
+
+#: inc/hooks.php:733
+msgid "Read More"
+msgstr ""
+
+#: inc/menus.php:6
+msgid "Classic Menu"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/config.php:5
+msgid "Block Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/config.php:6
+msgid "Block title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/options.php:5
+msgid "ID"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/block-title/options.php:6
+msgid ""
+"Optional field. You can add an ID for this block, for example for the Scroll "
+"to ID functionality. There should be no spaces in this field. Example ID: "
+"test_id."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/config.php:5
+msgid "Blog Posts"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/config.php:6
+msgid "Blog posts grid"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:6
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:16
+msgid "Layout"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:17
+msgid "Choose the layout type"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:17
+msgid "Number of posts to show"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/options.php:24
+msgid "Show only posts with featured image"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:51
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:94
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:143
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/blog-posts/views/view.php:151
+msgid "See All Posts"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/config.php:6
+msgid "Certificate"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:6
+msgid "Write some text."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:10
+msgid "Membership ID"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:11
+msgid "Write the ID number of the certificate."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:16
+msgid "Date of receipt of the certificate."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:15
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:39
+msgid "Logo"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:22
+msgid "Upload a logo image. Logo of the company issuing the certificate."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/options.php:27
+msgid ""
+"Optional field. Upload a certificate image. The image of the certificate "
+"that will be displayed after clicking on the block with the description of "
+"the certificate."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/cetificate/views/view.php:20
+msgid "logo"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/config.php:7
+msgid "Add an Client"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:8
+msgid "Choose Logo Image"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:9
+msgid ""
+"Either upload a new, or choose an existing logo image from your media library"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:16
+msgid "Width"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:17
+msgid "Set image width"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:22
+msgid "Height"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:23
+msgid "Set image height"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:33
+msgid "Logo Image Link"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/client/options.php:34
+msgid "Where should your logo image link to?"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/config.php:8
+msgid "Clients Slider"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/config.php:9
+msgid "Add some Clients logos"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:8
+msgid "Clients"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:9
+msgid "Add/Edit Client Item"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:10
+msgid "Here you can add, remove and edit Clients."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:16
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:37
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:26
+msgid "Link to the Clients website"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:25
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:51
+msgid "Website Link"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:32
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:58
+msgid "Items on the front: Desktop"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:33
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:39
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:45
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:59
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:65
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:71
+msgid "Example: 2"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:38
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:64
+msgid "Items on the front: Tablet"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/clients-slider/options.php:44
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:70
+msgid "Items on the front: Mobile"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/config.php:6
+msgid "Contact Form 2"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:8
+msgid "Option Contact Form 2 Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:12
+msgid "Contact Form Elements"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:13
+msgid "Add/Edit Contact Form Elements"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:14
+msgid "Here you can add, remove and edit your Contact Form 2 elements."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:22
+msgid "Element Type"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:23
+msgid "The type of the form element."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:25
+msgid "Text Input"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:26
+msgid "Textarea"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:27
+msgid "E-Mail"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:28
+msgid "Phone"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:29
+msgid "Checkbox"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:35
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:20
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:23
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:24
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:25
+msgid "Enter the title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:40
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:21
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/options.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:20
+msgid "Choose an Icon"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:44
+msgid "Enter the error message"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:51
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:43
+msgid "Mandatory"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:64
+msgid "Submit Button Text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact-2/options.php:66
+msgid "Submit"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:12
+msgid "Show the Checkbox"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:20
+msgid "off"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:28
+msgid "Checkbox Text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:29
+msgid ""
+"Checkbox text. In this field you can use HTML tags, for example, you can add "
+"a link to any page."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:34
+msgid "Checkbox Error Text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/options.php:35
+msgid "Checkbox error text."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:20
+msgid "Full Name"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:20
+msgid "Name is required."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:26
+msgid "Email Address"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:26
+msgid "Valid email is required."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:32
+msgid "Subject"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:32
+msgid "Subject is required."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:39
+msgid "Message"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:39
+msgid "Please, leave me a message."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/contact/views/view.php:70
+msgid "Send message"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/config.php:6
+msgid "Home Page First Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/config.php:7
+msgid "Leven Home Pages"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:11
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:11
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:43
+msgid "Subtitles Carousel"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:20
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:20
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:55
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:20
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:28
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:24
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:16
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:37
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:34
+msgid "Text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:26
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:26
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:63
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:22
+msgid "Buttons"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:61
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:61
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:57
+msgid "Select a button type"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:65
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:65
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:61
+msgid "Primary"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:69
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:69
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:65
+msgid "Secondary"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:76
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:72
+msgid "Upload an image."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:81
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:77
+msgid "Display text to the left or right of the image."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:82
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:94
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:78
+msgid "Swap the location of the blocks"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:95
+msgid "Disable Image Move Effect."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-1/options.php:96
+msgid "Turn off the animation effect when moving the mouse pointer."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/config.php:6
+msgid "Home Page Second Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:75
+msgid "Upload an .mp4 Video"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:76
+msgid ""
+"Upload an .mp4 file. For browser compatability, please upload an .mp4 and ."
+"webm file for video backgrounds."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:81
+msgid "Upload an .webm Video"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:82
+msgid ""
+"Upload an .webm file. For browser compatability, please upload an .webm and ."
+"webm file for video backgrounds."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:87
+msgid "Fallback Image"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:88
+msgid "Upload an image in case the browser does not support video backgrounds."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-2/options.php:93
+msgid "Display text to the left or right of the video."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/config.php:6
+msgid "Home Page Third Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:6
+msgid "Start Page Background"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:7
+msgid ""
+"Upload an image. If you use a video background, this image will be used as a "
+"fallback image (in case the browser does not support video backgrounds)."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:11
+msgid "Video Background. Upload an .mp4 Video"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:12
+msgid ""
+"Optional field. Upload an .mp4 file. For browser compatability, please "
+"upload an .mp4 and .webm file for video backgrounds."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:17
+msgid "Video Background. Upload an .webm Video"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:18
+msgid ""
+"Optional field. Upload an .webm file. For browser compatability, please "
+"upload an .mp4 and .webm file for video backgrounds."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:24
+msgid "Video Background Width"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:25
+msgid ""
+"Display the video background in full width and a text block above the video "
+"or half the page."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:29
+msgid "Half"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:33
+msgid "Full"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:37
+msgid "Main Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:38
+msgid "Write your main title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:99
+msgid "Display the image on the right, the block with the text on the left"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:100
+msgid "Swap the location of the blocks at the top of the start page"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:113
+msgid "Text Block Offset"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:114
+msgid "The offset of the text block relative to the block with the image."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:127
+msgid "Text Block Background"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:131
+msgid "You can change the background color of the block with text."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:135
+msgid "Main Title Color"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:142
+msgid "Subtitles Color"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/home-page-3/options.php:149
+msgid "Text Color"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/options.php:7
+msgid "Image Slider"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/config.php:9
+msgid "Add Image Slider"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/options.php:8
+msgid "Add/Edit Image Slider Item"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/options.php:9
+msgid "Here you can add, remove and edit your Image Slider."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/image-slider/options.php:18
+msgid "Add Image"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/config.php:6
+msgid "Info Block"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:16
+msgid "Highlighted Content"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:24
+msgid "Box Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:26
+msgid "Default Background"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-block/options.php:27
+msgid "Gray Background"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/config.php:8
+msgid "Info List 2"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/config.php:9
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/config.php:9
+msgid "Add some Information"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:8
+msgid "Option Info List Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:13
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:12
+msgid "Info List"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:14
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:13
+msgid "Add/Edit Info List Item"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list-2/options.php:15
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:14
+msgid "Here you can add, remove and edit your Info List."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:25
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:35
+msgid "Enter the some text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:30
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:52
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:29
+msgid "Link"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/info-list/options.php:31
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:30
+msgid "Where should your link to?"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/config.php:5
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/config.php:6
+msgid "Page Title First Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/page-title-1/options.php:11
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:11
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/options.php:10
+msgid "Subtitle"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/config.php:7
+msgid "Portfolio grid"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:23
+msgid "4 Columns"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:24
+msgid "5 Columns"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:31
+msgid "Categories"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/options.php:32
+msgid ""
+"Select the categories from which the projects will be displayed. If this "
+"field is empty, then projects will be displayed from all categories."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/portfolio/views/view.php:63
+msgid "All"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/config.php:7
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:31
+msgid "Quote"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/config.php:8
+msgid "Add a Quote"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:8
+msgid "Text Alignment"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:9
+msgid "Select the prefered text alignment"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:24
+msgid "Center"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:38
+msgid "Enter quote text"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:46
+msgid "Author"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:47
+msgid "Enter the quote author"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:53
+msgid "Enter the author link"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:60
+msgid "Font Size"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:61
+msgid "Select font size"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:66
+msgid "Small"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:67
+msgid "Medium"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/quote/options.php:68
+msgid "Large"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/config.php:6
+msgid "Service"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/config.php:7
+msgid "Add an Service block"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/options.php:12
+msgid "Title of the Service"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/service/options.php:17
+msgid "Enter the desired content"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/config.php:8
+msgid "Skills"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/config.php:9
+msgid "Skills block"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:8
+msgid "Option Skills Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:12
+msgid "Skill"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:13
+msgid "Add/Edit Skill"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:14
+msgid "Here you can add, remove and edit your skill."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:27
+msgid "Value"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:28
+msgid "Enter the value (%)"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/skills/options.php:32
+msgid "Skill Color"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/config.php:8
+msgid "Social Links"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/config.php:9
+msgid "Add social links"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:8
+msgid "Option Social Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:12
+msgid "Social Icons"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:13
+msgid "Add/Edit Social Icons"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/social/options.php:14
+msgid "Here you can add, remove and edit your Social Icons."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:8
+msgid "Testimonials Slider"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/config.php:9
+msgid "Add some Testimonials"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:9
+msgid "Option Testimonials Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:16
+msgid "Testimonials Style"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:18
+msgid "Style 1"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:19
+msgid "Style 2"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:25
+msgid "Add/Edit Testimonial"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:26
+msgid "Here you can add, remove and edit your Testimonials."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:32
+msgid "Enter the testimonial here"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:41
+msgid "Name"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:42
+msgid "Enter the Name of the Person to quote"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:46
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:29
+msgid "Company"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:47
+msgid "Enter the Company Name"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/testimonials-slider/options.php:52
+msgid "Link to the Persons website"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/config.php:8
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:12
+msgid "Timeline"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/config.php:9
+msgid "Timeline Information (Education, Experience...)"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:8
+msgid "Option Timeline Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:13
+msgid "Add/Edit Timeline"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:14
+msgid "Here you can add, remove and edit timeline."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:19
+msgid "Period"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:20
+msgid "Enter the period"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:30
+msgid "Enter the company name"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:40
+msgid "Upload a logo image."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:45
+msgid "Current active period"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/timeline/options.php:46
+msgid "The period of the active period will be highlighted."
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/config.php:5
+msgid "Page Title"
+msgstr ""
+
+#: plugins/leven-shortcodes/extensions/leven-shortcodes/shortcodes/title/config.php:6
+msgid "Section title"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:25
+msgid "Asides"
+msgstr ""
+
+#: taxonomy-post_format.php:28
+msgid "Images"
+msgstr ""
+
+#: taxonomy-post_format.php:31
+msgid "Videos"
+msgstr ""
+
+#: taxonomy-post_format.php:34
+msgid "Audio"
+msgstr ""
+
+#: taxonomy-post_format.php:37
+msgid "Quotes"
+msgstr ""
+
+#: taxonomy-post_format.php:40
+msgid "Links"
+msgstr ""
+
+#: taxonomy-post_format.php:43
+msgid "Galleries"
+msgstr ""
